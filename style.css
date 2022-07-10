@@ -373,10 +373,10 @@ section .title::after{
     width: 85%;
 }
 .skills-content .right .ai::before{
-    width: 50%;
+    width: 70%;
 }
 .skills-content .right .node::before{
-    width: 70%;
+    width: 50%;
 }
 
 /* teams section styling */
