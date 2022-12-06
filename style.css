@@ -363,20 +363,22 @@ section .title::after{
     top: 0;
     background: crimson;
 }
+
+/* skills percent weight */
 .skills-content .right .html::before{
-    width: 92%;
+    width: 100%;
 }
 .skills-content .right .css::before{
-    width: 88%;
+    width: 100%;
 }
 .skills-content .right .js::before{
-    width: 85%;
+    width: 100%;
 }
 .skills-content .right .ai::before{
-    width: 50%;
+    width: 100%;
 }
 .skills-content .right .node::before{
-    width: 70%;
+    width: 100%;
 }
 
 /* teams section styling */
