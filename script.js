@@ -42,7 +42,7 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Hiring","Internship", "Collaboration", "Apprenticeship", "Opportunity"],  //, "Freelancer"
+        strings: ["Hirings","Internships", "Collaborations", "Apprenticeships", "Opportunities"],  //, "Freelancer"
         typeSpeed: 100,
         backSpeed: 40,
         loop: true
