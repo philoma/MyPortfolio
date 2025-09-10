@@ -35,14 +35,15 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["Content Writer", "Developer", "Coder", "Designer"], //, "Freelancer"
-        typeSpeed: 100,
-        backSpeed: 40,
+        // strings: ["Content Writer", "Developer", "Coder", "Designer"], //, "Freelancer"
+        strings: ["am an ML Engineer", "Develop and Deploy AI.", "work in Applied AI.", "conduct Research in AI"], //, "Freelancer"
+        typeSpeed: 40,
+        backSpeed: 80,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Hirings","Internships", "Collaborations", "Apprenticeships", "Opportunities"],  //, "Freelancer"
+        strings: [ "Full-Time Roles",  "Consulting Engagements",  "Research Collaborations",  "Freelance Projects",  "Leadership Opportunities"],
         typeSpeed: 100,
         backSpeed: 40,
         loop: true
