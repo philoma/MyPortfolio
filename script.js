@@ -36,7 +36,7 @@ $(document).ready(function(){
     // typing text animation script
     var typed = new Typed(".typing", {
         // strings: ["Content Writer", "Developer", "Coder", "Designer"], //, "Freelancer"
-        strings: ["am an ML Engineer", "Develop and Deploy AI.", "work in Applied AI.", "conduct Research in AI"], //, "Freelancer"
+        strings: ["am an AI Engineer", "Develop and Deploy AI.", "work in Applied AI.", "conduct Research in AI"], //, "Freelancer"
         typeSpeed: 40,
         backSpeed: 80,
         loop: true
